@@ -1,9 +1,1 @@
-{"name":"できたかな","blood":"A","sign":"かに座","shay":"いいえ"}
-{"name":"2回目","blood":"B","sign":"おとめ座","shay":"いいえ"}
-{"name":"4回目","blood":"0","sign":"かに座","shay":"はい"}
-{"name":"１０","blood":"B","sign":"おうし座","shay":"いいえ"}
-{"name":"aaa","blood":"A","sign":"ふたご座","shay":"いいえ"}
-{"name":"hhh","blood":"0","sign":"かに座","shay":"いいえ"}
-{"name":"hhh","blood":"AB","sign":"いて座","shay":"いいえ"}
-{"name":"hhh","blood":"0","sign":"いて座","shay":"いいえ"}
-{"name":"ggg","blood":"O","sign":"おひつじ座","shay":"はい"}
+
