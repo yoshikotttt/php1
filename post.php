@@ -18,11 +18,11 @@
 
 <body>
 
-  <h1>アンケート</h1>
+  <h1>LAB15アンケート</h1>
   <div class="box0">
     <div class="box">
       <form action="write.php" method="post">
-        名前：<input type="text" name="name">
+        ニックネーム（なんでも可）：<input type="text" name="name">
     </div>
     <div class="box">
     血液型：<input type="radio" name="blood" value="A">A
